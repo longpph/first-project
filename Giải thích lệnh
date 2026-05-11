@@ -1,6 +1,0 @@
-PS D:\git\first-project> echo "Long dep trai" > Dungxem.md (tạo file Dungxem.md với nội dung Long dep trai)
-PS D:\git\first-project> git init (khởi tạo repository mới)
-PS D:\git\first-project> git remote add origin https://github.com/longpph/first-project.git (kết nối remote repository)
-PS D:\git\first-project> git add Dungxem.md
-PS D:\git\first-project> git commit -m "Dep trai" (Lưu thay đổi với ghi chú Deptrai)
-PS D:\git\first-project> git push origin master (Đẩy thay đổi từ local lên remote)
